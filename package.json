@@ -1,0 +1,25 @@
+{
+  "name": "bamazon_storefront",
+  "version": "1.0.0",
+  "description": "**Description:**",
+  "main": "bAmazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdublu416/bAmazon_storefront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdublu416/bAmazon_storefront/issues"
+  },
+  "homepage": "https://github.com/jdublu416/bAmazon_storefront#readme"
+}
